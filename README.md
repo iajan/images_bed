@@ -5,6 +5,5 @@
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 通过地址访问云端图片 https://iajan.gitee.io/images/img/bg.jpg
+
