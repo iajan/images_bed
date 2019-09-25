@@ -5,5 +5,5 @@
 
 #### 使用说明
 
-1. 通过地址访问云端图片 https://iajan.gitee.io/images_bed/img/bg.jpg
+1. 通过地址访问云端图片 http://iarjan.gitee.io/images_bed/img/bg.jpg
 
